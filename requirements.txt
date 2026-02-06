@@ -1,0 +1,24 @@
+# NutriMedAI Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Requests & Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# OCR
+easyocr>=1.7.0
+opencv-python>=4.8.0
+
+# Google Search (for web verification)
+googlesearch-python>=1.2.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Optional: GPU Support (uncomment if using CUDA)
+# torch>=2.0.0
+# torchvision>=0.15.0
