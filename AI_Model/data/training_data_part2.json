@@ -1,0 +1,82 @@
+[
+    {
+        "prompt": "Mide ilacı kullanırken ne yemeliyim",
+        "response": "### 💊 Mide İlacı ve Beslenme\n\n**Proton pompa inhibitörleri (Nexium, Lansor, Controloc)**\n\n### ✅ Tüketilmesi Gerekenler:\n- Haşlanmış sebzeler\n- Yağsız et ve tavuk\n- Pirinç, makarna\n- Muz, elma, armut\n\n### 🚫 Kaçınılması Gerekenler:\n- Baharatlı yiyecekler\n- Yağlı ve kızartma\n- Alkol, kahve\n- Domates, narenciye\n- Çikolata, nane"
+    },
+    {
+        "prompt": "Demir hapı kahve ile içilir mi",
+        "response": "### 🚫 Demir + Kahve = YANLIŞ\n\n**Kahve demir emilimini %80'e kadar azaltır!**\n\n### ⚠️ Kaçınılması Gerekenler:\n- Kahve (2 saat önce/sonra)\n- Çay (tanin içerir)\n- Süt ve süt ürünleri\n\n### ✅ Doğru Kullanım:\n- C vitamini ile alın (portakal suyu)\n- Aç karnına veya hafif atıştırmalıkla\n- Günün aynı saatinde"
+    },
+    {
+        "prompt": "Uyku ilacı aldım alkol içebilir miyim",
+        "response": "### 🚨 TEHLİKE! Kesinlikle HAYIR!\n\n**Uyku ilacı + Alkol = Hayati Risk**\n\n### ⚠️ Riskler:\n- Solunum depresyonu (nefes alamama)\n- Aşırı sedasyon, koma riski\n- Kalp ritim bozuklukları\n- Ölüm riski!\n\n### 💡 Ne Yapmalı:\n- En az 24 saat alkol almayın\n- Etkiler hissedilirse acile gidin"
+    },
+    {
+        "prompt": "Alerji ilacı uyku yapar mı",
+        "response": "### 💤 Antihistaminikler ve Uyku\n\n**Bazı alerji ilaçları uyku yapar!**\n\n### 😴 Uyku Yapanlar (1. Nesil):\n- Benadryl (Difenhidramin)\n- Avil (Feniramin)\n- Atarax (Hidroksizin)\n\n### ✅ Uyku Yapmayan (2. Nesil):\n- Aerius (Desloratadin)\n- Xyzal (Levosetirizin)\n- Telfast (Feksofenadin)\n- Zyrtec (Setirizin - hafif)"
+    },
+    {
+        "prompt": "Göz damlası kullanırken lens takabilir miyim",
+        "response": "### 👁️ Göz Damlası ve Lens\n\n### ⚠️ Genel Kural:\n- Damla önce, lens 15 dk sonra\n- Lensli iken damlatmayın\n- Koruyucu içeren damlalar lensi bozar\n\n### ✅ Lens ile Kullanılabilir:\n- Koruyucusuz yapay gözyaşı\n- Özel lens uyumlu damlalar\n\n### 🚫 Lens ile KULLANILMAZ:\n- Antibiyotikli damlalar\n- Steroidli damlalar\n- Göz tansiyonu damlaları"
+    },
+    {
+        "prompt": "Epilepsi ilacı kullanıyorum hamile kalabilir miyim",
+        "response": "### 💊 Epilepsi ve Gebelik\n\n**Hamilelik mümkün ama planlı olmalı!**\n\n### ⚠️ Önemli Hususlar:\n- Bazı ilaçlar bebekte anomali riski taşır\n- Valproat en riskli, kaçınılmalı\n- Folik asit 3 ay önceden başlanmalı\n\n### 💡 Güvenli Seçenekler:\n- Lamotrijin\n- Levetirasetam\n\n### 👨‍⚕️ Yapılması Gerekenler:\n- 3-6 ay önce nörolog kontrolü\n- Yüksek doz folik asit (4-5mg)\n- Düzenli USG takibi"
+    },
+    {
+        "prompt": "Şeker ilacımı unuttum ne yapmalıyım",
+        "response": "### 💊 Diyabet İlacı Atlama Durumu\n\n**Ne zaman fark ettiğinize bağlı!**\n\n### ⏰ 2-3 Saat İçinde Fark Ettiyseniz:\n- Hemen alın\n- Sonraki dozu normal saatinde\n\n### ⏰ Sonraki Doz Yakınsa:\n- Atlanan dozu ALMAYIN\n- Çift doz ALMAYIN\n- Normal programa devam\n\n### 📊 Kan Şekerinizi Ölçün:\n- 250 mg/dL üzeriyse doktoru arayın\n- Bol su için\n- Ağır egzersizden kaçının"
+    },
+    {
+        "prompt": "Akne kremi güneşte kullanılır mı",
+        "response": "### ☀️ Akne Kremleri ve Güneş\n\n**Çoğu akne tedavisi güneş hassasiyeti yapar!**\n\n### 🚫 Güneşten Kaçınılması Gerekenler:\n- Retinoik asit (Retin-A)\n- Benzoil peroksit\n- Adapalen\n- Doksisiklin (ilaç)\n\n### 💡 Öneriler:\n- SPF 30+ güneş kremi kullanın\n- Tedaviyi gece uygulayın\n- 10:00-16:00 güneşten kaçının\n- Şapka ve gözlük kullanın"
+    },
+    {
+        "prompt": "Tansiyon ilacı böbreklere zarar verir mi",
+        "response": "### 💊 Tansiyon İlaçları ve Böbrek\n\n**Tam tersi - böbrekleri KORUR!**\n\n### ✅ Böbrek Koruyucu İlaçlar:\n- ACE inhibitörleri (Lisinopril)\n- ARB'ler (Losartan, Valsartan)\n- Diyabetik hastalarda özellikle önemli\n\n### ⚠️ Dikkat Edilecekler:\n- İlk kullanımda kreatinin kontrolü\n- Potasyum düzeyi takibi\n- Yeterli su tüketimi\n\n### 🎯 Önemli:\n- Kontrolsüz tansiyon böbreğe zarar verir\n- İlaç kullanımı böbreği korur"
+    },
+    {
+        "prompt": "Antidepresan başladım ne zaman etki eder",
+        "response": "### 💊 Antidepresan Etki Süresi\n\n**Sabırlı olun - 2-4 hafta gerekir!**\n\n### ⏰ Zaman Çizelgesi:\n- 1. hafta: Yan etkiler başlayabilir\n- 2. hafta: Enerji artışı\n- 3-4. hafta: Duygudurum düzelmeye başlar\n- 6-8. hafta: Tam etki\n\n### ⚠️ Önemli Uyarılar:\n- İlacı bırakmayın, sabır gerekli\n- Alkol tüketiminden kaçının\n- Düzenli saatte alın\n\n### 🚨 Doktora Başvurun:\n- İntihar düşünceleri\n- Aşırı ajitasyon\n- Uyku bozukluğu"
+    },
+    {
+        "prompt": "Mide koruyucu ne zaman alınmalı",
+        "response": "### 💊 Mide Koruyucu (PPI) Kullanımı\n\n### ⏰ Ne Zaman Alınmalı:\n- Kahvaltıdan 30 dk ÖNCE\n- Aç karnına en etkili\n- Günde 1 kez yeterli\n\n### 💡 Neden Aç Karna:\n- Proton pompaları aktif olmalı\n- Yemek öncesi aktive olurlar\n- Bu sayede ilaç etkili çalışır\n\n### ⚠️ Uzun Süreli Kullanımda:\n- B12 eksikliği\n- Magnezyum düşüklüğü\n- Kemik erimesi riski"
+    },
+    {
+        "prompt": "Grip ilacı tansiyon yükseltir mi",
+        "response": "### 🤧 Grip İlaçları ve Tansiyon\n\n**EVET! Dikkat edilmeli!**\n\n### 🚫 Tansiyon Yükselten Bileşenler:\n- Pseudoefedrin (burun açıcı)\n- Fenilefrin\n- NSAİİ'ler (ibuprofen)\n\n### ⚠️ Kaçınılması Gereken İlaçlar:\n- Sudafed, Advil Cold\n- Çoğu kombine grip ilaçları\n\n### ✅ Güvenli Alternatifler:\n- Saf parasetamol (Parol)\n- Tuzlu su burun spreyi\n- Bal-limon\n- Istırabilir buhar\n\n### 👨‍⚕️ Doktora Sorun:\n- Hipertansiyonunuz varsa\n- Kalp hastasıysanız"
+    },
+    {
+        "prompt": "Omega 3 kan sulandırır mı",
+        "response": "### 🐟 Omega-3 ve Kan Pıhtılaşması\n\n**Yüksek dozda hafif kan sulandırıcı etki var!**\n\n### ⚠️ Dikkat Edilmesi Gerekenler:\n- Günlük 3g üzeri dozlarda etki belirgin\n- Warfarin ile birlikte dikkat\n- Ameliyattan 1 hafta önce bırakın\n\n### ✅ Normal Dozda Güvenli:\n- 1-2g/gün güvenli\n- Balık yemek sorun değil\n\n### 👨‍⚕️ Doktora Danışın:\n- Kan sulandırıcı kullanıyorsanız\n- Ameliyat planlıyorsanız\n- Kanama sorununuz varsa"
+    },
+    {
+        "prompt": "Proteini ne zaman içmeliyim",
+        "response": "### 💪 Protein Tozu Zamanlaması\n\n### ⏰ En İyi Zamanlar:\n- Antrenman sonrası 30 dk (en önemli)\n- Sabah kahvaltısında\n- Yatmadan önce (kazein)\n\n### 💡 Özel Durumlar:\n- Kilo almak: Öğünlerle birlikte\n- Kilo vermek: Öğün yerine\n- Kas koruma: Antrenman öncesi+sonrası\n\n### ⚠️ Dikkat:\n- Böbrek hastalarında dikkat\n- Günde 2g/kg'ı geçmeyin\n- Bol su için"
+    },
+    {
+        "prompt": "D vitamini ne zaman alınmalı",
+        "response": "### ☀️ D Vitamini Kullanımı\n\n### ⏰ Ne Zaman:\n- Yağlı bir öğünle birlikte\n- Sabah veya öğle (gece uyku bozabilir)\n- Haftada 1 veya günlük doz\n\n### 💡 Neden Yağ ile:\n- D vitamini yağda çözünür\n- Yağsız alımda emilim %50 düşer\n- Zeytinyağlı salata, peynir yeterli\n\n### ⚠️ Dikkat:\n- Aşırı doz toksisite yapar\n- Böbrek taşı riski\n- 3-6 ayda bir kan testi"
+    },
+    {
+        "prompt": "Astım spreyi nasıl kullanılır",
+        "response": "### 💨 Astım Spreyi Doğru Kullanım\n\n### 📋 Adımlar:\n1. Kapağı çıkarın, iyice çalkalayın\n2. Derin nefes verip ciğerleri boşaltın\n3. Ağızlığı dudaklarla sarın\n4. Spreyi sıkarak YAVAŞ nefes alın\n5. 10 saniye nefesinizi tutun\n6. Yavaşça nefes verin\n\n### ⚠️ Önemli:\n- Kortikosteroid sonrası ağzı çalkalayın\n- Mantar enfeksiyonu önlenir\n- Spacer kullanımı emilimi artırır\n- 2 puf arasında 1 dk bekleyin"
+    },
+    {
+        "prompt": "Alkol antibiyotikle içilir mi",
+        "response": "### 🚫 Antibiyotik + Alkol\n\n**GENEL KURAL: KAÇININ!**\n\n### 🚨 KESİNLİKLE TEHLİKELİ:\n- Metronidazol (Flagyl)\n- Tinidazol\n- Disülfiram benzeri reaksiyon\n- Bulantı, kusma, çarpıntı\n\n### ⚠️ Alkolden Kaçınılması Gerekenler:\n- Sefalosporinler\n- Doksisiklin\n- Eritromisin\n\n### 💡 Genel Öneriler:\n- Tedavi süresince alkol almayın\n- Bitirdikten 48-72 saat bekleyin\n- Bira dahil tüm alkoller"
+    },
+    {
+        "prompt": "Migren ilacı kafein içerir mi",
+        "response": "### ☕ Migren İlaçları ve Kafein\n\n**EVET, çoğu kombine migren ilacı kafein içerir!**\n\n### 💊 Kafein İçeren Migren İlaçları:\n- Cafergot\n- Excedrin Migraine\n- Minoset Plus\n- Geralgine-K\n\n### 💡 Neden Kafein:\n- İlacın emilimini hızlandırır\n- Ağrı kesici etkiyi %40 artırır\n- Damar daraltıcı etki\n\n### ⚠️ Dikkat:\n- Günde 2-3 kahve içiyorsanız dikkat\n- Kalp hastalarında risk\n- Aşırı kullanım geri tepme baş ağrısı yapar"
+    },
+    {
+        "prompt": "Doğum kontrol hapı sigara ile kullanılır mı",
+        "response": "### 🚭 Doğum Kontrol Hapı ve Sigara\n\n**35 yaş üstü sigara içenlerde KONTRENDIKE!**\n\n### 🚨 Riskler:\n- Kan pıhtısı (DVT) 20 kat artar\n- Kalp krizi riski\n- İnme riski\n- Pulmoner emboli\n\n### ⚠️ Yüksek Risk Grupları:\n- 35 yaş üstü\n- Günde 15+ sigara\n- Migren hastası\n- Obez bireyler\n\n### 💡 Alternatifler:\n- Hormonsuz spiral (bakır IUD)\n- Minipil (progestin only)\n- Bariyer yöntemler"
+    },
+    {
+        "prompt": "Ağrı kesici mideyi bozar mı",
+        "response": "### 💊 Ağrı Kesiciler ve Mide\n\n**NSAİİ'ler mide mukozasına zarar verir!**\n\n### 🚫 Mide için Riskli Olanlar:\n- İbuprofen\n- Diklofenak\n- Naproksen\n- Aspirin\n\n### ⚠️ Riskler:\n- Mide ülseri\n- Gastrit\n- Mide kanaması\n\n### ✅ Daha Güvenli:\n- Parasetamol (Parol)\n- Mide koruyucu ile kullanım\n\n### 💡 Koruma Yolları:\n- Tok karnına alın\n- Kısa süre kullanın\n- Mide koruyucu ekleyin\n- Alkol ile birlikte ALMAYIN"
+    }
+]

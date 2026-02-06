@@ -1,0 +1,82 @@
+[
+    {
+        "prompt": "Bebek emzirirken antibiyotik alabilir miyim",
+        "response": "### 🍼 Emzirme ve Antibiyotik\n\n**Çoğu antibiyotik emzirmede GÜVENLİ!**\n\n### ✅ Güvenli Antibiyotikler:\n- Amoksisilin, Ampisilin\n- Azitromisin, Eritromisin\n- Sefalosporinler\n- Penisilinler\n\n### ⚠️ Dikkatle Kullanılabilir:\n- Metronidazol (süte metalik tat)\n- Doksisiklin (kısa süreli ok)\n\n### 🚫 Kaçınılması Gerekenler:\n- Kloramfenikol\n- Yüksek doz Metronidazol\n- Florokinolonlar (tartışmalı)\n\n### 💡 Bebekte ishal olursa:\n- Probiyotik verin\n- Emzirmeye devam edin"
+    },
+    {
+        "prompt": "Vitamin takviyesi ne zaman alınmalı",
+        "response": "### 💊 Vitamin Takviyesi Zamanlaması\n\n### 🌞 Sabah Alınması Gerekenler:\n- B vitaminleri (enerji verir)\n- C vitamini\n- Multivitamin\n\n### 🍽️ Yemekle Birlikte:\n- D, E, K vitamini (yağda çözünür)\n- Demir (C vitamini ile)\n\n### 🌙 Akşam/Gece:\n- Magnezyum (uyku kalitesi)\n- Kalsiyum (gece alımı daha iyi)\n\n### ⚠️ Birlikte Alınmamalı:\n- Demir + Kalsiyum\n- Çinko + Bakır\n- D vitamini + Kafein"
+    },
+    {
+        "prompt": "Lavman yapınca ilaç etkilenir mi",
+        "response": "### 💊 Lavman ve İlaç Etkileşimi\n\n### ⚠️ Etkilenebilecek İlaçlar:\n- Oral antidiyabetikler\n- Oral antibiyotikler\n- Doğum kontrol hapı\n- Tiroid ilacı\n\n### ⏰ Lavman Zamanlaması:\n- İlaçtan 2-4 saat ÖNCE lavman\n- Veya ilaçtan 2 saat SONRA\n- Acil değilse bekleyin\n\n### 💡 Öneriler:\n- Daha kritik ilaçları sabah erken alın\n- Lavmanı geç saatte yapın\n- Şüphe durumunda eczacıya danışın"
+    },
+    {
+        "prompt": "Menopoz hormonu meme kanseri yapar mı",
+        "response": "### 💊 Menopoz ve Hormon Tedavisi\n\n**Risk VAR ama abartılmamalı!**\n\n### 📊 Gerçek Rakamlar:\n- 5 yıl kullanımda risk hafif artar\n- 1000 kadında 5 ekstra vaka\n- Bırakıldığında risk düşer\n\n### 🔴 Riskli Durumlar:\n- Ailede meme kanseri\n- 60 yaş sonrası başlamak\n- Uzun süreli kullanım (>5 yıl)\n\n### 🟢 Daha Güvenli:\n- Sadece östrojen (rahimsi varsa)\n- Transdermal (jel/bant)\n- Düşük doz\n- 60 yaş öncesi başlamak\n\n### 💡 Bireysel değerlendirme şart!"
+    },
+    {
+        "prompt": "Magnezyum eksikliği belirtileri neler",
+        "response": "### 🔋 Magnezyum Eksikliği\n\n### ⚠️ Belirtiler:\n- Kas krampları, spazmlar\n- Halsizlik, yorgunluk\n- Sinirlilik, anksiyete\n- Uyku bozukluğu\n- Göz seğirmesi\n- Çarpıntı hissi\n\n### 🎯 Risk Grupları:\n- Diyabet hastaları\n- Alkol kullananlar\n- PPI kullananlar\n- Stres altındakiler\n\n### 💊 Tedavi:\n- 200-400mg/gün yeterli\n- Glikonat, sitrat formları iyi emilir\n- Yemekle birlikte alın\n\n### 🥗 Besin Kaynakları:\n- Koyu yeşil yapraklar\n- Badem, kaju\n- Bitter çikolata"
+    },
+    {
+        "prompt": "Kısır yapınca ilacı bırakmalı mıyım",
+        "response": "### 🔗 Spiral ve İlaç Kullanımı\n\n**Spiral takılması ilaç kullanımını ETKİLEMEZ!**\n\n### ✅ Devam Edebilirsiniz:\n- Antibiyotikler\n- Ağrı kesiciler\n- Tansiyon ilaçları\n- Diyabet ilaçları\n\n### ⚠️ Dikkat Edilecekler:\n- Mifepriston içeren ilaçlar\n- Kortikosteroidler (enfeksiyon riski)\n\n### 💡 Spiral Sonrası:\n- Ağrı kesici alabilirsiniz\n- İlk günlerde kramp normal\n- Antibiyotik verilirse bitirin"
+    },
+    {
+        "prompt": "Kas gevşetici uyku hapı ile alınır mı",
+        "response": "### 🚫 TEHLİKELİ KOMBİNASYON!\n\n**Kas gevşetici + Uyku hapı = HAYIR!**\n\n### ⚠️ Riskler:\n- Aşırı sedasyon\n- Solunum depresyonu\n- Düşme riski\n- Bilinç bulanıklığı\n\n### 🚫 Birlikte Alınmamalı:\n- Benzodiazepinler\n- Z-ilaçları (zolpidem)\n- Antihistaminikler\n- Alkol\n\n### 💡 Alternatif:\n- Birini sabah, diğerini akşam\n- En az 8 saat ara\n- Doktorunuza danışın"
+    },
+    {
+        "prompt": "Probiyotik antibiyotikle birlikte alınır mı",
+        "response": "### 💊 Probiyotik ve Antibiyotik\n\n**ALINIR! Ama zamanlama önemli.**\n\n### ⏰ Doğru Kullanım:\n- Antibiyotikten 2-3 SAAT SONRA alın\n- Aynı anda ALMAYIN\n- Antibiyotik probiyotiği de öldürür\n\n### ✅ Faydaları:\n- Antibiyotik ishali azalır\n- Bağırsak florası korunur\n- C. difficile enfeksiyonu riski azalır\n\n### 💡 Süre:\n- Antibiyotik süresince devam\n- Bittikten sonra 1-2 hafta daha\n\n### 🥛 Probiyotik Kaynakları:\n- Yoğurt, kefir\n- Turşu, lahana turşusu"
+    },
+    {
+        "prompt": "Aşı olduktan sonra spor yapabilir miyim",
+        "response": "### 💉 Aşı Sonrası Fiziksel Aktivite\n\n### ⏰ Önerilen Bekleme:\n- Hafif aktivite: Aynı gün ok\n- Yoğun antrenman: 1-2 gün bekle\n- Ağır kaldırma: 2-3 gün bekle\n\n### ⚠️ Neden Beklemeli:\n- Vücut bağışıklık tepkisi veriyor\n- Yorgunluk normal\n- Kas ağrısı olabilir\n\n### ✅ Yapılabilir:\n- Hafif yürüyüş\n- Stretching\n- Yoga\n\n### 🚫 Kaçınılması Gerekenler:\n- HIIT, CrossFit\n- Maraton antrenmanı\n- Ağır halter"
+    },
+    {
+        "prompt": "Göbek eriten hap gerçekten işe yarar mı",
+        "response": "### 🚫 MİT: Göbek Eriten Hap\n\n**Bölgesel yağ yakan ilaç YOKTUR!**\n\n### ❌ İşe Yaramayan:\n- Karnitin (sınırlı etki)\n- CLA\n- Detoks çayları\n- Bitkisel kapsüller\n\n### ⚠️ Tehlikeli Olanlar:\n- Efedrin içerenler (kalp riski)\n- Tiroid hormonları\n- Yurtdışı takviyeler\n\n### ✅ Gerçek Çözüm:\n- Kalori açığı (yemek azalt)\n- Düzenli egzersiz\n- Uyku düzeni\n- Stres yönetimi\n\n### 💡 Tek gerçek yol: Kalori açığı + Egzersiz"
+    },
+    {
+        "prompt": "Uyku apnesi olan tansiyon ilacı almalı mı",
+        "response": "### 😴 Uyku Apnesi ve Tansiyon\n\n**EVET! İkisi birbirine bağlı.**\n\n### 📊 Bağlantı:\n- Uyku apnesi tansiyon yükseltir\n- Gece tansiyon düşmüyor\n- Kalp-damar riski artar\n\n### 💊 Tedavi:\n- CPAP cihazı (en önemli)\n- CPAP ile tansiyon %10-15 düşer\n- Yine de ilaç gerekebilir\n\n### 💡 Öneriler:\n- Kilo verin\n- Alkol azaltın\n- Yan yatın\n- CPAP düzenli kullanın"
+    },
+    {
+        "prompt": "Hamileyken diş iltihabı için ne alınır",
+        "response": "### 🦷 Hamilelikte Diş Enfeksiyonu\n\n**TEDAVİ GEREKLİ! Ertelemeyin.**\n\n### ✅ Güvenli Antibiyotikler:\n- Amoksisilin (1. tercih)\n- Penisilin\n- Sefaleksin\n- Klindamisin (penisilin alerjisi)\n\n### ✅ Güvenli Ağrı Kesici:\n- Parasetamol\n\n### 🚫 KAÇINILACAKLAR:\n- Tetrasiklin (diş rengi)\n- Metronidazol (1. trimester)\n- İbuprofen (3. trimester)\n\n### 💡 Tedavisiz bırakırsanız:\n- Enfeksiyon yayılır\n- Erken doğum riski artar"
+    },
+    {
+        "prompt": "Sedef hastalığında alkol içilir mi",
+        "response": "### 🍺 Sedef ve Alkol\n\n**AZALTIN veya BIRAKIN!**\n\n### ⚠️ Alkol Etkileri:\n- Alevlenmeleri tetikler\n- Tedavi etkinliğini azaltır\n- Metotreksat + alkol: Karaciğer hasarı\n- Biyolojik ilaçlar + alkol: Risk\n\n### 🚫 Özellikle Tehlikeli:\n- Metotreksat (karaciğer)\n- Asitretin (karaciğer+lipidler)\n- Siklosporin\n\n### 💡 Öneri:\n- Haftalık 2-3 kadehe sınırlayın\n- İlaç kullanıyorsanız danışın\n- Bira yerine kırmızı şarap daha az tetikler"
+    },
+    {
+        "prompt": "Kas ağrısı için sıcak mı soğuk mu uygulanır",
+        "response": "### 🌡️ Sıcak vs Soğuk Tedavi\n\n### ❄️ SOĞUK Uygula (İlk 48 saat):\n- Akut yaralanma\n- Şişlik varsa\n- Burkulma, incinme\n- 15-20 dk, günde 3-4 kez\n\n### 🔥 SICAK Uygula (2 gün sonra):\n- Kronik kas ağrısı\n- Sertlik, tutulma\n- Stres kaynaklı ağrı\n- Regl sancısı\n\n### 💡 Hatırlayın:\n- SOĞUK = Şişlik azaltır\n- SICAK = Kas gevşetir\n\n### ⚠️ Dikkat:\n- Diyabette his azalmış olabilir\n- Dondurmayın/yakmayın"
+    },
+    {
+        "prompt": "Kulak damlası nasıl damlatılır",
+        "response": "### 👂 Kulak Damlası Uygulama\n\n### 📋 Adımlar:\n1. Ellerinizi yıkayın\n2. Şişeyi avuçta ısıtın\n3. Yan yatın (hasta kulak yukarı)\n4. Kulak kepçesini hafifçe arkaya çekin\n5. Damlaları uygulayın\n6. 5 dakika yan yatın\n7. İsterseniz pamuk koyun\n\n### ⚠️ Çocuklarda:\n- Kepçeyi aşağı-arkaya çekin\n- Daha az damla\n\n### ⚠️ Önemli:\n- Damlatıcı kulağa değmesin\n- Soğuk damla baş dönmesi yapar\n- Zar deliği varsa kullanmayın"
+    },
+    {
+        "prompt": "Karaciğer yağlanmasında ne yenilmeli",
+        "response": "### 🥗 Yağlı Karaciğer Diyeti\n\n### ✅ Faydalı Besinler:\n- Zeytinyağı (tek yağ kaynağı)\n- Balık (omega-3)\n- Yeşil yapraklı sebzeler\n- Ceviz, badem\n- Sarımsak\n- Yeşil çay\n- Kahve (2-3 fincan/gün)\n\n### 🚫 Kaçınılması Gerekenler:\n- Alkol (tamamen bırakın)\n- Şeker, fruktoz şurubu\n- Beyaz un ürünleri\n- Kızartmalar\n- Hazır gıdalar\n- Gazlı içecekler\n\n### 💡 Kilo Verme:\n- %5-10 kilo kaybı iyileşme sağlar"
+    },
+    {
+        "prompt": "İdrar söktürücü potasyum düşürür mü",
+        "response": "### 💊 Diüretikler ve Potasyum\n\n**Çoğu diüretik potasyum DÜŞÜRÜR!**\n\n### ⬇️ Potasyum Düşürenler:\n- Furosemid (Lasix)\n- Hidroklorotiyazid\n- Bumetanid\n\n### ⬆️ Potasyum KORUYANLAR:\n- Spironolakton\n- Triamteren\n- Eplerenon\n\n### ⚠️ Düşük Potasyum Belirtileri:\n- Kas zayıflığı\n- Kramplar\n- Çarpıntı\n- Kabızlık\n\n### 💡 Korunma:\n- Potasyum zengin besinler (muz, patates)\n- Düzenli kan testi\n- Gerekirse takviye"
+    },
+    {
+        "prompt": "Gut hastalığında hangi ilaçlar yasak",
+        "response": "### 💊 Gut ve İlaç Kısıtlamaları\n\n### 🚫 Gut Atağı Tetikleyenler:\n- Aspirin (düşük doz)\n- Tiazid diüretikleri\n- Loop diüretikleri\n- Siklosporin\n- Pirazinamid (tbc ilacı)\n\n### ⚠️ Dikkatli Kullanılmalı:\n- Niasin (B3)\n- Levodopa\n- ACE inhibitörleri\n\n### ✅ Gut Dostu Alternatifler:\n- Ağrı için: Kolşisin, Naproksen\n- Tansiyon için: Losartan (ürik asit düşürür)\n\n### 💡 Her ilaç başlarken doktora söyleyin!"
+    },
+    {
+        "prompt": "Yoğurt antibiyotikten sonra yedim sorun olur mu",
+        "response": "### 🥛 Yoğurt ve Antibiyotik\n\n**Genellikle sorun olmaz, FAYDALARI bile var!**\n\n### ✅ Yoğurt Faydaları:\n- Probiyotik içerir\n- Antibiyotik ishalini azaltır\n- Bağırsak florasını korur\n\n### ⏰ Zamanlama:\n- Antibiyotikten 2 saat sonra yiyin\n- Aynı anda yemeyin (bazı ilaçlar)\n\n### ⚠️ DİKKAT: Süt ile ALINMAYAN antibiyotikler:\n- Tetrasiklin\n- Doksisiklin\n- Siprofloksasin\n\n### 💡 İpucu:\n- Antibiyotik bitince de 1 hafta yiyin\n- Kefir de iyi bir alternatif"
+    },
+    {
+        "prompt": "Bitkisel çay tansiyon ilacı ile içilir mi",
+        "response": "### 🍵 Bitkisel Çay ve Tansiyon İlacı\n\n**DİKKATLİ OLUN! Bazıları etkileşir.**\n\n### ⚠️ Riskli Olanlar:\n- Meyan kökü: Tansiyon yükseltir\n- St. John's Wort: İlaçları etkisizleştirir\n- Ginseng: Tansiyon yükseltebilir\n- Efedra: Tehlikeli\n\n### ✅ Genellikle Güvenli:\n- Papatya\n- Ihlamur\n- Nane\n- Kuşburnu\n- Hibiskus (tansiyonu düşürebilir)\n\n### 💡 Öneriler:\n- Yeni bir çay başlamadan önce danışın\n- Fazla tüketmeyin\n- Etki değişirse doktora söyleyin"
+    }
+]

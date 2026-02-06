@@ -1,5 +1,4 @@
-data/all_foods_match_status.json
-*.json
+
 
 # Python
 __pycache__/

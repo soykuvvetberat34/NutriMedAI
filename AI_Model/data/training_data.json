@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Ben diyabet hastasıyım makarna yedim ne gibi zararları olur",
+        "response": "### 🍝 Diyabet ve Makarna\n\n**Dikkat Edilmesi Gerekenler:**\n- Makarna yüksek glisemik indeksli bir besindir ve kan şekerinizi hızla yükseltebilir\n- Özellikle beyaz makarna, rafine karbonhidrat içerdiği için diyabet hastalarında kan şekeri dalgalanmalarına neden olur\n\n### ⚠️ Olası Etkiler:\n- Kan şekeri ani yükselişi (hiperglisemi)\n- İnsülin direnci artışı\n- Uzun vadede HbA1c değerlerinde yükselme\n\n### 💡 Öneriler:\n- Tam buğday veya kepekli makarna tercih edin\n- Porsiyon kontrolü yapın (1/2 porsiyon)\n- Yanında bol sebze ve protein tüketin\n- Yemekten 2 saat sonra kan şekerinizi ölçün\n- Metformin kullanıyorsanız ilacınızı düzenli alın"
+    },
+    {
+        "prompt": "Tansiyon ilacımı greyfurt suyu ile içtim sorun olur mu",
+        "response": "### 🚨 KRİTİK UYARI!\n\n**Greyfurt + Tansiyon İlacı = TEHLİKELİ ETKİLEŞİM**\n\n### ⚠️ Neden Tehlikeli?\n- Greyfurt suyu, karaciğerdeki CYP3A4 enzimini bloke eder\n- Bu enzim tansiyon ilaçlarını (özellikle kalsiyum kanal blokerleri) parçalar\n- Enzim bloke olunca ilaç kanda birikir, doz aşımı etkisi yapar\n\n### 🚫 Risk Altındaki İlaçlar:\n- Amlodipin, Felodipin, Nifedipin\n- Verapamil, Diltiazem\n- Losartan, Atorvastatin\n\n### 💊 Ne Yapmalısınız?\n- Tansiyonunuzu takip edin\n- Baş dönmesi, çarpıntı hissederseniz doktora başvurun\n- Bundan sonra greyfurt ürünlerinden uzak durun\n- En az 24 saat greyfurt etkisi sürebilir"
+    },
+    {
+        "prompt": "Aspirin ile birlikte ibuprofen alabilir miyim",
+        "response": "### 🚫 UYARI: Riskli Kombinasyon!\n\n**Aspirin + İbuprofen birlikte kullanımı önerilmez.**\n\n### ⚠️ Riskler:\n- Her ikisi de NSAİİ (ağrı kesici) grubundandır\n- Mide kanaması riski 3-4 kat artar\n- Böbrek fonksiyonları olumsuz etkilenebilir\n- Aspirin'in kalp koruyucu etkisi azalabilir\n\n### 💡 Alternatifler:\n- Ağrı için parasetamol (Parol) tercih edin\n- En az 8 saat ara ile kullanın\n- Aspirin'i sabah, ibuprofen gerekirse akşam alın\n\n### 👨‍⚕️ Doktora Danışın:\n- Düzenli Aspirin kullanıyorsanız\n- Mide hassasiyetiniz varsa\n- 65 yaş üstüyseniz"
+    },
+    {
+        "prompt": "Antibiyotik kullanırken süt içebilir miyim",
+        "response": "### 🥛 Antibiyotik ve Süt Ürünleri\n\n**Bazı antibiyotiklerle süt tüketimi etkileşime girer!**\n\n### 🚫 Süt ile ALINMAMASI Gereken Antibiyotikler:\n- Tetrasiklin grubu (Doksisiklin, Tetrasiklin)\n- Kinolon grubu (Siprofloksasin, Levofloksasin)\n- Sütteki kalsiyum ilacın emilimini %50-90 azaltır\n\n### ✅ Süt ile Alınabilenler:\n- Amoksisilin, Ampisilin\n- Azitromisin\n- Metronidazol\n\n### 💡 Genel Kural:\n- İlacı almadan 2 saat önce veya 2 saat sonra süt tüketin\n- Yoğurt ve peynir için de aynı kural geçerli\n- İlacı su ile için"
+    },
+    {
+        "prompt": "Hamilelikte parol kullanabilir miyim",
+        "response": "### 💊 Hamilelikte Parol (Parasetamol)\n\n**Parasetamol, hamilelikte en güvenli ağrı kesicidir.**\n\n### ✅ Güvenli Kullanım:\n- Gebeliğin her trimesterında kullanılabilir\n- Önerilen doz: 500-1000 mg, günde max 3-4 kez\n- Günlük toplam doz 3 gramı geçmemeli\n\n### ⚠️ Dikkat Edilecekler:\n- Uzun süreli kullanımdan kaçının\n- Minimum etkili dozu tercih edin\n- Karaciğer hastalığınız varsa doktora danışın\n\n### 🚫 Hamilelikte KAÇINILACAK Ağrı Kesiciler:\n- İbuprofen (özellikle 3. trimester)\n- Aspirin (yüksek doz)\n- Diklofenak\n- Naproksen"
+    },
+    {
+        "prompt": "Kan sulandırıcı kullanıyorum yeşil yapraklı sebze yiyebilir miyim",
+        "response": "### 🥬 Kan Sulandırıcı ve K Vitamini\n\n**Warfarin (Coumadin) kullanıyorsanız dikkat!**\n\n### ⚠️ K Vitamini Etkileşimi:\n- Yeşil yapraklı sebzeler K vitamini içerir\n- K vitamini Warfarin'in etkisini AZALTIR\n- INR değeriniz düşebilir, pıhtı riski artar\n\n### 🥗 Yüksek K Vitamini İçeren Besinler:\n- Ispanak, pazı, lahana\n- Brokoli, brüksel lahanası\n- Maydanoz, roka, marul\n\n### 💡 Öneriler:\n- Tamamen bırakmayın, TUTARLI tüketin\n- Her gün yaklaşık aynı miktarda yiyin\n- Ani artış/azalışlardan kaçının\n- INR takibinizi aksatmayın\n- Doktorunuzu bilgilendirin"
+    },
+    {
+        "prompt": "Şeker hastasıyım muz yiyebilir miyim",
+        "response": "### 🍌 Diyabet ve Muz\n\n**Muz tüketebilirsiniz ama dikkatli olun!**\n\n### 📊 Muz ve Kan Şekeri:\n- Orta boy muz: ~27g karbonhidrat, ~14g şeker\n- Glisemik indeksi: 51 (orta seviye)\n- Olgunlaştıkça şeker içeriği artar\n\n### ✅ Güvenli Tüketim:\n- Yarım veya küçük boy muz tercih edin\n- Yeşilimsi, az olgun muzları seçin\n- Protein ile birlikte tüketin (yoğurt, badem)\n- Günde 1'den fazla yemeyin\n\n### ⚠️ Dikkat:\n- Muz püresi/smoothie daha hızlı şeker yükseltir\n- Aç karnına yemeyin\n- Yedikten 2 saat sonra şeker ölçün"
+    },
+    {
+        "prompt": "Yüksek tansiyonum var kahve içebilir miyim",
+        "response": "### ☕ Hipertansiyon ve Kahve\n\n**Kahve tüketimi dikkatli yönetilmeli!**\n\n### 📊 Kahvenin Tansiyon Etkisi:\n- Geçici olarak 5-10 mmHg yükseltebilir\n- Etki 1-3 saat sürer\n- Düzenli içenlerde tolerans gelişir\n\n### ✅ Güvenli Tüketim:\n- Günde 1-2 fincan filtre kahve\n- Sabah saatlerinde için\n- Tansiyon ilacınızdan 1 saat sonra\n\n### 🚫 Kaçınılması Gerekenler:\n- Espresso bazlı yoğun kahveler\n- Enerji içecekleri\n- Günde 400mg üzeri kafein\n- Tansiyon yüksekken içmek\n\n### 💡 Alternatifler:\n- Kafeinsiz kahve\n- Yeşil çay (daha az kafein)\n- Bitki çayları"
+    },
+    {
+        "prompt": "Kolesterol ilacımı akşam mı sabah mı almalıyım",
+        "response": "### 💊 Statin İlaçları ve Alım Zamanı\n\n**Çoğu statin AKŞAM alınmalıdır!**\n\n### 🌙 Neden Akşam?\n- Kolesterol üretimi gece en yüksek seviyededir\n- Kısa etkili statinler (Simvastatin, Lovastatin) gece daha etkili\n- Karaciğer kolesterol sentezini gece yapar\n\n### ⏰ İlaçlara Göre Zamanlama:\n- **Akşam alınması gereken:** Simvastatin, Lovastatin\n- **Herhangi bir zamanda:** Atorvastatin, Rosuvastatin (uzun etkili)\n\n### 💡 Önemli Notlar:\n- Her gün aynı saatte alın\n- Greyfurt tüketiminden kaçının\n- Kas ağrısı olursa doktora bildirin\n- Tok veya aç alınabilir"
+    },
+    {
+        "prompt": "Tiroid ilacımı nasıl almalıyım",
+        "response": "### 💊 Tiroid İlacı (Levotiroksin) Kullanımı\n\n**Doğru kullanım çok önemli!**\n\n### ⏰ Ne Zaman Almalı?\n- Sabah aç karnına\n- Kahvaltıdan 30-60 dakika ÖNCE\n- Her gün aynı saatte\n\n### 🚫 Birlikte ALINMAMALARI:\n- Kahve (en az 1 saat bekleyin)\n- Süt ve süt ürünleri (4 saat ara)\n- Kalsiyum, demir takviyeleri (4 saat ara)\n- Antiasitler (Rennie, Talcid)\n\n### ⚠️ Emilimi Azaltan Besinler:\n- Soya ürünleri\n- Yüksek lifli gıdalar\n- Ceviz\n\n### 💡 İpucu:\n- İlacı başucunuza koyun\n- Uyanınca hemen bir bardak su ile alın\n- Sonra normal rutininize devam edin"
+    }
+]
